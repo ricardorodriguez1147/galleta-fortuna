@@ -6,6 +6,7 @@ import Card from './components/card/card';
 import Button from './components/button/button';
 
 
+
 function App() {
   const [phrase, setPhrase] = useState(phrases[0]);
 

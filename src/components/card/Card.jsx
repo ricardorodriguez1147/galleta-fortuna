@@ -1,4 +1,4 @@
-import './card.css';
+import '..card/Card.css';
 
 function Card({ phrase }) {
 
