@@ -1,0 +1,26 @@
+.container-phrase{
+    height: min-content;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  
+  .container-phrase p{
+    text-align: center;
+    padding: 2rem;
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 2rem;
+  }
+  
+  h2{
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-variation-settings: "wdth" 100;
+    font-size: 1.8rem;
+  }

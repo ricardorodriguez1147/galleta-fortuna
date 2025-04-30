@@ -1,0 +1,15 @@
+button{
+    background: #2A7B9B;
+    background: linear-gradient(90deg,rgba(42, 123, 155, 1) 0%, rgba(87, 199, 133, 1) 50%, rgba(237, 221, 83, 1) 100%);
+    padding: 1rem 3rem 1rem 3rem;
+    outline: none;
+    border-radius: 10px;
+    border-style: none;
+    font-size: 1.5rem;
+}
+
+
+button:hover{
+    background: #2A7B9B;
+background: linear-gradient(90deg,rgba(42, 123, 155, 1) 0%, rgba(87, 199, 133, 1) 100%, rgba(237, 221, 83, 1) 100%);
+}
