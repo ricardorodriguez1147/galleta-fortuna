@@ -2,8 +2,8 @@ import { useState } from 'react'
 import './App.css'
 import phrases from './data/phrases.json'
 import { getItemRandom } from './lib/utils'
-import Card from './components/card/card';
-import Button from './components/button/button';
+import Card from './components/card/Card.jsx';
+import Button from './components/button/Button.jsx';
 
 
 
